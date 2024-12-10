@@ -1,0 +1,11 @@
+flask
+torch
+transformers
+openai
+sentence-transformers
+pandas
+scikit-learn
+datasets
+spacy
+scipy
+xlrd
